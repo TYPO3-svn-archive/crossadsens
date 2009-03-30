@@ -1,0 +1,4 @@
+plugin.tx_crossadsens_pi1 {
+	templateFile = {$plugin.tx_crossadsens_pi1.template_folder}template.html
+	adId = pub-9992654178821565
+}

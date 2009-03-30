@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>database</type>
+		<description>Language labels for database tables/fields belonging to extension 'crossadsens'</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="tt_content.list_type_pi1">Cross Google AdSense</label>
+			<label index="tt_content.pi_flexform.googleAdId">Google AdSense Account ID</label>
+			<label index="tt_content.pi_flexform.googleAdPubId">Ads ID</label>
+			<label index="tt_content.pi_flexform.googleAdWidth">Width</label>
+			<label index="tt_content.pi_flexform.googleAdHeight">Height</label>
+		</languageKey>
+		<languageKey index="fr" type="array">
+			<label index="tt_content.list_type_pi1">Cross Google AdSense</label>
+			<label index="tt_content.pi_flexform.googleAdId">Identifiant du compte Google AdSense</label>
+			<label index="tt_content.pi_flexform.googleAdPubId">Identifiant de l'annonce</label>
+			<label index="tt_content.pi_flexform.googleAdWidth">Largeur</label>
+			<label index="tt_content.pi_flexform.googleAdHeight">Hauteur</label>
+		</languageKey>
+	</data>
+</T3locallang>

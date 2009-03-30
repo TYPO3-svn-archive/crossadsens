@@ -1,0 +1,1 @@
+plugin.tx_crossadsens_pi1.template_folder = EXT:crossadsens/res/
